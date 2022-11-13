@@ -1,0 +1,73 @@
+{
+	"movies": {
+		"movie": [
+			{
+				"id": "4134",
+				"year": "1995",
+				"title": "Хакеры",
+				"actors": {
+					"actor": [
+						{
+							"id": "14843",
+							"firstname": "Джонни",
+							"lastname": "Миллер"
+						},
+						{
+							"id": "20866",
+							"firstname": "Анджелина",
+							"lastname": "Джоли"
+						}
+					]
+				},
+				"director": {
+					"firstname": "Иэн",
+					"lastname": "Софтли"
+				}
+			},
+			{
+				"id": "6132",
+				"year": "1995",
+				"title": "Сеть",
+				"actors": {
+					"actor": {
+						"id": "6542",
+						"firstname": "Сандра",
+						"lastname": "Буллок"
+					}
+				},
+				"director": {
+					"firstname": "Ирвин",
+					"lastname": "Уинклер"
+				}
+			},
+			{
+				"id": "3800",
+				"year": "1995",
+				"title": "Джонни Мнемоник",
+				"actors": {
+					"actor": [
+						{
+							"id": "7836",
+							"firstname": "Киану",
+							"lastname": "Ривз"
+						},
+						{
+							"id": "56697",
+							"firstname": "Такеши",
+							"lastname": "Китано"
+						},
+						{
+							"id": "4768",
+							"firstname": "Дольф",
+							"lastname": "Лундгрен"
+						}
+					]
+				},
+				"director": {
+					"firstname": "Роберт",
+					"lastname": "Лонго"
+				}
+			}
+		]
+	}
+}
