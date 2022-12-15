@@ -1,4 +1,4 @@
-id;year;title;actor_id;actor_firstname;actor_lastname;director_firstname;director_lastname;
+movie_id;movie_year;title;actor_id;actor_firstname;actor_lastname;director_firstname;director_lastname;
 4134;1995;Хакеры;14843;Джонни;Миллер;Иэн;Софтли;
 ;;;20866;Анджелина;Джоли;;;
 6132;1995;Сеть;6542;Сандра;Буллок;Ирвин;Уинклер;
